@@ -1,5 +1,8 @@
 _repo: Ricordi-d-un-viaggio-in-Sicilia_71232
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71232-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
     - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71232#Ricordi-d-un-viaggio-in-Sicilia
 gutenberg_issued: '2023-07-20'
 identifiers:
   gutenberg: '71232'
